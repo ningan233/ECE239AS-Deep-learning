@@ -1,3 +1,4 @@
 # ECE239AS---Deep-learning
 
-ECE239AS： N
+Winter 2019
+ECE239AS： Neural network and deep learning
